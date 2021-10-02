@@ -1,8 +1,8 @@
-### Hi there im Anirudh!
+### Hi there im Adeesh!
 
-I’m currently a trainee at https://gopaddle.io/ <br />
-I'm learning about Kunbernetes. <br />
-I can work with SSH, Git and Github.
+I’m currently a Student Software Engineer at https://gopaddle.io/ <br />
+I'm well versed with python and am currently learning Machine Learning. <br />
+I'm fluent with in jekyll, check out this [website](https://gopaddle-io.github.io/configurator/) I built using jekyll.
 
 ### Connect with me:
 
