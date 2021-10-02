@@ -1,31 +1,32 @@
 ### Hi there im Adeesh!
 
-I’m currently a Student Software Engineer at https://gopaddle.io/ <br />
-I'm well versed with python and am currently learning Machine Learning. <br />
-I'm fluent with in jekyll, check out this [website](https://gopaddle-io.github.io/configurator/) I built using jekyll.
+I’m currently a Software Engineer at https://gopaddle.io/ <br />
+I'm well versed with python and Machine Learning. <br />
+I'm maintaing configurator, a version and sync service for kubernetes ConfigMaps.
+Check out this [website](https://gopaddle-io.github.io/configurator/) I built for configurator using jekyll.
+
 
 ### Connect with me:
 
-[<img align="left" alt="Anirudh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Anirudh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Adeesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Adeesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adeesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Configurator | Disocord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][git]
+[<img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jekyll/jekyll.png" />][jekyll]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" />][pytorch]
 <br />
 <br />
 ---
 
-[twitter]: https://twitter.com/AnirudhD13
-[instagram]: https://www.instagram.com/anirudh.d.575
-[linkedin]: https://www.linkedin.com/in/anirudh-d-1b5493220
+[twitter]: https://twitter.com/AdeeshDevanand
+[linkedin]: https://www.linkedin.com/in/adeesh-devanand-7a564820a/
 [discord]: https://discord.gg/dr24Z4BmP8
 [vscode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png
+[python]: https://www.python.org/
+[jekyll]: https://jekyllrb.com/
+[pytorch]: https://pytorch.org/
